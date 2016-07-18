@@ -8,14 +8,14 @@ music.songindex = 0;
 music.audio = new Audio();
 music.songs = [
     {
-        title : "Tobu - Candyland",
-        src: "Tobu - Candyland.mp3",
-        img: "candyland.jpg"
-    },
-    {
         title : "Lensko - Cetus",
         src: "cetus.mp3",
         img: "lensko.jpg"
+    },
+    {
+        title : "Tobu - Candyland",
+        src: "Tobu - Candyland.mp3",
+        img: "candyland.jpg"
     },
     {
         title : "Cartoon - Immortality",
